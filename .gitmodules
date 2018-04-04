@@ -1,3 +1,6 @@
 [submodule "consignment"]
 	path = consignment
 	url = https://github.com/Ostoyae/Consignment.git
+[submodule "account"]
+	path = account
+	url = https://github.com/Ostoyae/Account.git
