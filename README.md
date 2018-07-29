@@ -1,4 +1,4 @@
-Armillaria, Is the project git repo. currently none of the other module are still in develpoment. pull this repo and it's submodules would result in nothing.
+Armillaria, Is the project git repo. other module are still in develpoment.
 
 I'm unsure if this repo will have any main fuctionality or just a home for all repos relating to this project.
 
