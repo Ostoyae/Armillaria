@@ -1,4 +1,4 @@
-Armillaria, Is the project git repo. other module are still in develpoment.
+Armillaria, currently under hiatus while I'm attending school at Holberton.
 
 I'm unsure if this repo will have any main fuctionality or just a home for all repos relating to this project.
 
